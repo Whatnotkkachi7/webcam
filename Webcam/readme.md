@@ -28,4 +28,4 @@ Execute the file ```criminalip_webcam.py```
 
 Hope you enjoy!
 
-If you are interested in fetching other type of assets like [Printer](https://github.com/hako-ck396/criminalIP_find_Application/blob/master/printer/readme.md) or [Docker](https://github.com/hako-ck396/criminalIP_find_Application/blob/master/docker/readme.md), check out my other repositories in [criminalIP_find_Application](https://github.com/hako-ck396/criminalIP_find_Application)
+If you are interested in fetching other type of assets like Printer or Docker, check out my other repositories in [criminalIP_find_Application](https://github.com/Whatnotkkachi7/criminalIP_find_Application)
